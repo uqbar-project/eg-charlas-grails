@@ -15,3 +15,7 @@ que se estaban dando en cada una de las aulas. Este proyecto resume el taller en
 * en un entorno GGTS 3.6.0
 * con Twitter Boostrap 3.2.0
 
+# Branches
+
+* **fresh**: es la versión inicial para comenzar el taller
+* **master**: es la versión final

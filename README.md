@@ -4,7 +4,7 @@
    <img src="https://cloud.githubusercontent.com/assets/4549002/18567286/d66ad63a-7b6d-11e6-964b-4d09fbe9e340.png" 
       size="150px" height="150px">
    </img>
-   <img src="doc/demo.gif" 
+   <img src="video/demo.gif" 
       size="70%" height="70%">
    </img>
 </div>

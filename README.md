@@ -9,7 +9,7 @@
 ## Explicación
 
 Para el [WISIT'14](http://www.uqbar-project.org/events/wisit-2014) se organizó un taller de Grails donde se desarrolló una aplicación que mostrara las charlas 
-que se estaban dando en cada una de las aulas. Este proyecto resume el taller en estado final.
+que se estaban dando en cada una de las aulas, con la posibilidad de marcar una charla como favorita. Este proyecto resume el taller en estado final.
 
 ## Versiones actuales
 

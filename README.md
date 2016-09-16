@@ -5,7 +5,7 @@
       size="150px" height="150px">
    </img>
    <img src="video/demo.gif" 
-      size="70%" height="70%">
+      size="50%" height="50%" style="text-align: right">
    </img>
 </div>
 

@@ -2,10 +2,10 @@
 
 <div>
    <img src="https://cloud.githubusercontent.com/assets/4549002/18567286/d66ad63a-7b6d-11e6-964b-4d09fbe9e340.png" 
-      size="150px" height="150px" style="padding: 20px; v-align: top;">
+      size="150px" height="150px" style="margin: 0 0 0 20px; v-align: top;">
    </img>
    <img src="video/demo.gif" 
-      width="75%" height="75%" style="text-align: right; padding: 20px;">
+      width="75%" height="75%" style="text-align: right;">
    </img>
 </div>
 
